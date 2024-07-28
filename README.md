@@ -14,9 +14,9 @@ Through this project I honed my skills;
 ## Data description:
 I gathered the GDP in billions(US dollars) and population in millions datasets of African countries classified as the Sub-Saharan from [IMF website](https://www.imf.org/en/Publications/WEO/weo-database/2024/April).
 
-I converted the datasets to an analyzable format:
+I converted the datasets to an analyzable format using Python:
 - [GDP](Files/convert_GDP.ipynb)
-- [Population]()
+- [Population](Files/convert_pop.ipynb)
 
 where the final structure was 
 
