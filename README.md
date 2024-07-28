@@ -14,7 +14,7 @@ Through this project I honed my skills;
 ## Data description:
 I gathered the GDP in billions(US dollars) and population in millions datasets of African countries classified as the Sub-Saharan from [IMF website](https://www.imf.org/en/Publications/WEO/weo-database/2024/April).
 
-I [converted]() the datasets to an analyzable format 
+I converted the datasets to an analyzable format: [GDP]()  [population]()
 
 where the final structure was 
 
@@ -23,3 +23,18 @@ Columns:
 - Country - Names of the African countries.
 - Year - Each year a record taken.
 - GDP(B) - Holds the GDP values of each country every year.
+
+
+Loaded the datasets into a database in SQL server,
+
+prepared the datasets for easy analysis by [combining them](),
+
+calculated the [gdp per capita](),
+
+did a [trend analysis](),
+
+calculated [yearly growth rates](),
+
+[correlation]() between population growth rate and GDP's, 
+
+before diving into visualization using Power BI.
