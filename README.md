@@ -12,4 +12,14 @@ Through this project I honed my skills;
 - Communication
 
 ## Data description:
-I gathered the GDP in billions(US dollars) and population in millions datasets of African countries classified as the Sub-Saharan from [IMF website]()
+I gathered the GDP in billions(US dollars) and population in millions datasets of African countries classified as the Sub-Saharan from [IMF website](https://www.imf.org/en/Publications/WEO/weo-database/2024/April).
+
+I [converted]() the datasets to an analyzable format 
+
+where the final structure was 
+
+GDP dataset:
+Columns: 
+- Country - Names of the African countries.
+- Year - Each year a record taken.
+- GDP(B) - Holds the GDP values of each country every year.
