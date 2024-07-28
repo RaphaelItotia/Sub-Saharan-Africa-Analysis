@@ -36,7 +36,7 @@ Columns:
 
 Loaded the datasets into a database in SQL server,
 
-prepared the datasets for easy analysis by [combining them](),
+prepared the datasets for easy analysis by [combining them](Files/CREATE_VIEW.sql),
 
 calculated the [gdp per capita](),
 
