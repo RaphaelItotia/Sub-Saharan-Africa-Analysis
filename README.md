@@ -26,6 +26,12 @@ Columns:
 - Year - Each year a record taken.
 - GDP(B) - Holds the GDP values of each country every year.
 
+Population dataset:
+Columns:
+- Country
+- Year
+- Population(M)
+  
 ---------------
 
 Loaded the datasets into a database in SQL server,
