@@ -14,7 +14,9 @@ Through this project I honed my skills;
 ## Data description:
 I gathered the GDP in billions(US dollars) and population in millions datasets of African countries classified as the Sub-Saharan from [IMF website](https://www.imf.org/en/Publications/WEO/weo-database/2024/April).
 
-I converted the datasets to an analyzable format: [GDP]()  [population]()
+I converted the datasets to an analyzable format:
+- [GDP]()
+- [Population]()
 
 where the final structure was 
 
@@ -24,6 +26,7 @@ Columns:
 - Year - Each year a record taken.
 - GDP(B) - Holds the GDP values of each country every year.
 
+---------------
 
 Loaded the datasets into a database in SQL server,
 
