@@ -44,6 +44,6 @@ did a [trend analysis](Files/Trend_analysis.sql),
 
 calculated [yearly growth rates](Files/Yearly_Growth_Rate.sql),
 
-[correlation]() between population growth rate and GDP's, 
+[correlation](Files/Correlation_analysis.sql) between population growth rate and GDP's, 
 
 before diving into visualization using Power BI.
