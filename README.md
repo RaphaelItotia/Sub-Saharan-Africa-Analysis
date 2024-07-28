@@ -42,7 +42,7 @@ calculated the [gdp per capita](Files/GDP_per_Capita.sql),
 
 did a [trend analysis](Files/Trend_analysis.sql),
 
-calculated [yearly growth rates](Files/Yearly_Growth_Rates.sql),
+calculated [yearly growth rates](Files/Yearly_Growth_Rate.sql),
 
 [correlation]() between population growth rate and GDP's, 
 
