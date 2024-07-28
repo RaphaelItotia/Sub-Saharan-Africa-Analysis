@@ -40,9 +40,9 @@ prepared the datasets for easy analysis by [combining them](Files/CREATE_VIEW.sq
 
 calculated the [gdp per capita](Files/GDP_per_Capita.sql),
 
-did a [trend analysis](),
+did a [trend analysis](Files/Trend_analysis.sql),
 
-calculated [yearly growth rates](),
+calculated [yearly growth rates](Files/Yearly_Growth_Rates.sql),
 
 [correlation]() between population growth rate and GDP's, 
 
