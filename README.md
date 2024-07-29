@@ -72,3 +72,18 @@ It's population still experiencing an upward trend since 1980(0.09M) now at (0.2
 For Angola and Sao tome, GDP and population appear not to be moving together. This means there is no much positive relationship between the two.
 
 -------
+
+**Trends for GDP and population growth in East Africa:**
+
+Ethiopia took the lead from Kenya from 2022 based on GDP. It experienced a very steap upward trend from 2021(99.27B) to date (205.13B)
+
+Population has been high than GDP until 2021 but still experiencing an upward trend since 1980.
+
+![]()
+
+Comoros being the lagging country by 2024, has been experiencing a lot of troughs and crests in their GDP over the years. Since GDP overtook the population figure in the year 2003(0.55B), it has rose to 1.42B by 2024.
+
+Population growth is still under upward trend since 1980.
+
+![]()
+
