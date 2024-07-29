@@ -67,3 +67,9 @@ Although Sao tome is lagging by 2024, there is a consistent upward trend from 20
 It's population still experiencing an upward trend since 1980(0.09M) now at (0.24M) _mmmh... still a small figure_ 
 
 ![](Files/sao.gif)
+
+-------
+
+For Angola and Sao tome, GDP and population appear not to be moving together. This means there is no much positive relationship between the two.
+
+-------
