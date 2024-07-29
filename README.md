@@ -61,3 +61,9 @@ Angola being the leading in GDP by 2024, there is a downward trend from 2017(122
 For the population growth, it has a consistent upward trend from 1980(8.27M) to 2024(37.89M)
 
 ![](Files/ne.gif)
+
+Although Sao tome is lagging by 2024, there is a consistent upward trend from 2015(0.26B) to date(0.75B)
+
+It's population still experiencing an upward trend since 1980(0.09M) now at (0.24M) _mmmh... still a small figure_ 
+
+![](Files/sao.gif)
