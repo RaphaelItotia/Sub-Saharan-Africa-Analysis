@@ -42,7 +42,7 @@ I connected the SQL database to Power BI and first did a Data Modeling;
 - I created an active country to country relationship from *CombinedData* table to other tables.
 - An inactive year to year relationship from *CombinedData* table to other tables to avoid ambiguity. Activated by creating measures and implementing USERELATIONSHIP() function in DAX.
 
-![]()
+![](Files/modeling.gif)
 
 ## Data Visualization
 
