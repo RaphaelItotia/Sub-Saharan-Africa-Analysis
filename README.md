@@ -58,6 +58,6 @@ For instance,
 
 Angola being the leading in GDP by 2024, there is a downward trend from 2017(122.02B) to 2020(57.14B) but then a recovery and grew up to 122.83B by 2022 before facing another down trend that is currently at 92.12B 
 
-For the population growth, it has a consistent upward trend from 1980(8.27M) and to 2024(37.89M)
+For the population growth, it has a consistent upward trend from 1980(8.27M) to 2024(37.89M)
 
 ![](Files/ne.gif)
