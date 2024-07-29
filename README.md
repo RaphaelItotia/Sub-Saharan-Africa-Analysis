@@ -7,7 +7,7 @@ Through this project I honed my skills;
 - Data cleaning and transformation
 - Data visualization
 - Statistics
-- Data modelling
+- Data modeling
 - Problem-solving
 - Communication
 
@@ -36,17 +36,13 @@ Columns:
 
 Loaded the datasets into a database in SQL server,
 
-prepared the datasets for easy analysis by [combining them](Files/CREATE_VIEW.sql),
+prepared the datasets for easy analysis by [combining them](Files/CREATE_VIEW.sql), calculated the [gdp per capita](Files/GDP_per_Capita.sql), did a [trend analysis](Files/Trend_analysis.sql), calculated [yearly growth rates](Files/Yearly_Growth_Rate.sql), [correlation](Files/Correlation_analysis.sql) between population growth rate and GDP's, before diving into visualization using Power BI.
 
-calculated the [gdp per capita](Files/GDP_per_Capita.sql),
+I connected the SQL database to Power BI and first did a Data Modeling;
+- I created an active country to country relationship from *CombinedData* table to other tables.
+- An inactive year to year relationship from *CombinedData* table to other tables to avoid ambiguity. Activated by creating measures and implementing USERELATIONSHIP() function in DAX.
 
-did a [trend analysis](Files/Trend_analysis.sql),
-
-calculated [yearly growth rates](Files/Yearly_Growth_Rate.sql),
-
-[correlation](Files/Correlation_analysis.sql) between population growth rate and GDP's, 
-
-before diving into visualization using Power BI.
+![]()
 
 ## Data Visualization
 
