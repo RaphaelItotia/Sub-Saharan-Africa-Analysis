@@ -160,3 +160,6 @@ Top 5 from **West Africa**
 | 5 | Guinea | 1,650.58|
 
 ------
+## Conclusion:
+
+I now understand how different GDP and Population growth interact. I revealed trends and correlation that can be valuable for economic forecasting, policy - making, and understanding demographic impacts on economic development.
