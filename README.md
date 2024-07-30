@@ -79,13 +79,13 @@ Ethiopia took the lead from Kenya from 2022 based on GDP. It experienced a very 
 
 Population still experiencing an upward trend since 1980.
 
-![]()
+![](Files/Ethiopia.png)
 
 Comoros being the lagging country by 2024, has been experiencing a lot of troughs and crests in their GDP over the years. 
 
 Population growth is still under upward trend since 1980.
 
-![]()
+![](Files/Comoros.png)
 
 **Trends for GDP and population growth in Southern Africa:**
 
@@ -93,12 +93,12 @@ South Africa experienced a massive upward trend from 2002(129.38B) to 2011(458.7
 
 Population has been under an upward trend but not steep.
 
-![]()
+![](Files/SA.png)
 
 
 Lesotho. Having the least figures in both GDP and population, it's the lagging country in Southern Africa facing fluctuations in GDP while population facing an upward trend but not a steep trend.
 
-![]()
+![](Files/Lesotho.png)
 
 **Trends for GDP and population growth in West Africa:**
 
@@ -106,10 +106,10 @@ After facing a massive upward trend from 1999(57.48B) to 2014(568.50B), Nigeria 
 
 It's population is under an upward trend to date. 
 
-![]()
+![](Files/Nigeria.png)
 
 Guinea Bissau is the lagging country with a GDP of 2.15B after experiencing though upward but not a consistent trend.
 
 For population, upward trend is evident over the years.
 
-![]()
+![](Files/Guinea-Bissau.png)
