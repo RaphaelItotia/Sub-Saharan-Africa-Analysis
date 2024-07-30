@@ -75,7 +75,7 @@ For Angola and Sao tome, GDP and population appear not to be moving together. Th
 
 **Trends for GDP and population growth in East Africa:**
 
-Ethiopia took the lead from Kenya from 2022 based on GDP. It experienced a very steap upward trend from 2021(99.27B) to date (205.13B)
+Ethiopia took the lead from Kenya in 2022 based on GDP. It experienced a very steep upward trend from 2021(99.27B) to date (205.13B)
 
 Population still experiencing an upward trend since 1980.
 
