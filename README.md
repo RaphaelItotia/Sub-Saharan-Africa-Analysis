@@ -4,7 +4,7 @@
 Analyze and visualize the relationship between GDP and Population growth across different African countries and years. Identify trends and correlations in the economic and demographic data. 
 
 Through this project I honed my skills;
-- Data cleaning and transformation
+- Data transformation
 - Data visualization
 - Statistics
 - Data modeling
