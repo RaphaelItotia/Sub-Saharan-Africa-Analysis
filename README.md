@@ -121,9 +121,11 @@ After ranking countries based on GDP per capita by 2024,
 Top 5 Countries in 
 **Central Africa**
 
-|Ranking | Country | GDP per capita(USD) |
-|1| Gabon| 9,306.02 |
-|2| Equatorial Guinea| 6,734.59|
-|3| Sao Tome and Principe| 3,168.78|
-|4| Republic of Congo | 2,456.97 |
-|5| Angola | 2,431.58|
+
+| Rank | Country | GDP per capita(USD) |
+| ------| -----|-------|
+| 1 | Gabon| 9,306.02 |
+| 2 | Equatorial Guinea| 6,734.59|
+| 3 | Sao Tome and Principe|3,168.78|
+| 4 | Republic of Congo | 2,456.97 |
+| 5 | Angola | 2,431.58|
