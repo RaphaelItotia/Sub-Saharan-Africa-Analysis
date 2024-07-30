@@ -121,7 +121,6 @@ After ranking countries based on GDP per capita by 2024,
 Top 5 Countries in 
 **Central Africa**
 
-
 | Rank | Country | GDP per capita(USD) |
 | ------| -----|-------|
 | 1 | Gabon| 9,306.02 |
@@ -129,3 +128,33 @@ Top 5 Countries in
 | 3 | Sao Tome and Principe|3,168.78|
 | 4 | Republic of Congo | 2,456.97 |
 | 5 | Angola | 2,431.58|
+
+Top 5 from **East Africa**
+
+| Rank | Country | GDP per capita(USD) |
+| ------| -----|-------|
+| 1 | Seychelles| 21,811.88 |
+| 2 | Mauritius| 12,973.04|
+| 3 | Zimbabwe|2,087.56|
+| 4 | Kenya | 1,983.09 |
+| 5 | Ethiopia | 1,909.98|
+
+Top 5 from **Southern Africa**
+
+| Rank | Country | GDP per capita(USD) |
+| ------| -----|-------|
+| 1 | Botswana| 7,874.26 |
+| 2 | South Africa| 5,974.88|
+| 3 | Namibia |4,745.35|
+| 4 | Eswatini | 4,323.98 |
+| 5 | Lesotho | 1,106.75|
+
+Top 5 from **West Africa**
+
+| Rank | Country | GDP per capita(USD) |
+| ------| -----|-------|
+| 1 | Cape Verde| 4,654.11 |
+| 2 | Côte d'Ivoire| 2,717.41|
+| 3 | Ghana |2,229.91|
+| 4 | Senegal | 1,899.68 |
+| 5 | Guinea | 1,650.58|
