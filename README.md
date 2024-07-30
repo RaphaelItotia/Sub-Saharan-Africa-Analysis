@@ -158,3 +158,5 @@ Top 5 from **West Africa**
 | 3 | Ghana |2,229.91|
 | 4 | Senegal | 1,899.68 |
 | 5 | Guinea | 1,650.58|
+
+------
