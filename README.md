@@ -1,4 +1,4 @@
-# Analyzing African economic and demographic trends.
+# Analyzing African Economic and Demographic Trends.
 ![](Files/Head.gif)
 ## Objective: 
 Analyze and visualize the relationship between GDP and Population growth across different African countries and years. Identify trends and correlations in the economic and demographic data. 
