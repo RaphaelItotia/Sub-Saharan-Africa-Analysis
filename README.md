@@ -129,7 +129,7 @@ Top 5 Countries in
 | 4 | Republic of Congo | 2,456.97 |
 | 5 | Angola | 2,431.58|
 
-Top 5 from **East Africa**
+Top 5 in **East Africa**
 
 | Rank | Country | GDP per capita(USD) |
 | ------| -----|-------|
@@ -139,7 +139,7 @@ Top 5 from **East Africa**
 | 4 | Kenya | 1,983.09 |
 | 5 | Ethiopia | 1,909.98|
 
-Top 5 from **Southern Africa**
+Top 5 in **Southern Africa**
 
 | Rank | Country | GDP per capita(USD) |
 | ------| -----|-------|
@@ -149,7 +149,7 @@ Top 5 from **Southern Africa**
 | 4 | Eswatini | 4,323.98 |
 | 5 | Lesotho | 1,106.75|
 
-Top 5 from **West Africa**
+Top 5 in **West Africa**
 
 | Rank | Country | GDP per capita(USD) |
 | ------| -----|-------|
