@@ -49,6 +49,8 @@ I connected the SQL database to Power BI and first did a Data Modeling;
 
 ![](Files/modeling.gif)
 
+Download the `.pbix` file from the Datasets folder.
+
 ## Data Visualization
 
 Having plotted gdp, population, and gdp per capita, I identified some trends.
